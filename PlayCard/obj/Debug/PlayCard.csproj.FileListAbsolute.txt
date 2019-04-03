@@ -1,0 +1,7 @@
+c:\users\acer-pc\source\repos\PlayCard\PlayCard\bin\Debug\PlayCard.exe.config
+c:\users\acer-pc\source\repos\PlayCard\PlayCard\bin\Debug\PlayCard.exe
+c:\users\acer-pc\source\repos\PlayCard\PlayCard\bin\Debug\PlayCard.pdb
+c:\users\acer-pc\source\repos\PlayCard\PlayCard\obj\Debug\PlayCard.csprojAssemblyReference.cache
+c:\users\acer-pc\source\repos\PlayCard\PlayCard\obj\Debug\PlayCard.csproj.CoreCompileInputs.cache
+c:\users\acer-pc\source\repos\PlayCard\PlayCard\obj\Debug\PlayCard.exe
+c:\users\acer-pc\source\repos\PlayCard\PlayCard\obj\Debug\PlayCard.pdb
